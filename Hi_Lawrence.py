@@ -6,3 +6,5 @@ Created on Tue Jan 21 13:03:08 2020
 """
 
 print("Hi Lawrence")
+
+print("hi Sarah")
